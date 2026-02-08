@@ -3,3 +3,4 @@ development
 __pycache__
 .mypy_cache
 .logs
+.DS_Store
